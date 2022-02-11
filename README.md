@@ -1,10 +1,10 @@
 # [QBCORE] Admin Panel
 
-The QBCore Admin Panel made by aidanohart is a FiveM server administration panel for server owners that want to manage and run their roleplay server through a website! A demo link can be found below which shows an example of what the panel is.
+The QBCore Admin Panel made by Innovative Studios is a FiveM server administration panel for server owners that want to manage and run their roleplay server through a website! A demo link can be found below which shows an example of what the panel is.
 
 `Admin Panel Demo` : <https://panel.aidanoh.art/> <br>
-`Support & Info Discord:` : <https://discord.aidanoh.art/> <br>
-`Public Documentation:` : COMING SOON <br>
+`Support & Info Discord:` : <https://discord.iv-studios.net/> <br>
+`Public Documentation:` : https://docs.iv-studios.net <br>
 `Tebex Link` : COMING SOON (Read bottom of page for more info about this) 
 
 ### Features
