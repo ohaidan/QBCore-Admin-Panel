@@ -5,7 +5,7 @@ The QBCore Admin Panel made by Innovative Studios is a FiveM server administrati
 `Admin Panel Demo` : <https://panel.aidanoh.art/> <br>
 `Support & Info Discord:` : <https://discord.iv-studios.net/> <br>
 `Public Documentation:` : https://docs.iv-studios.net <br>
-`Tebex Link` : COMING SOON (Read bottom of page for more info about this) 
+`BUY NOW` : https://store.iv-studios.net
 
 ### Features
 - Fully secure login system with "remember me" functionality
