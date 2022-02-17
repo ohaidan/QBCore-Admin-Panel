@@ -20,4 +20,4 @@ The QBCore Admin Panel made by Innovative Studios is a FiveM server administrati
 **There are many more features that are not listed, check the demo!**
 
 ### Where can I get this and how?
-Currently this panel is still in development. For panel updats, join the [Support Discord](http://discord.aidanoh.art "Support Discord") for updates. The panel will cost £29.50 (Around $39) and will include life time support and I will give all advice I can to help fix any problems or make anything compatible for you! 
+https://forum.cfx.re/t/paid-qbcore-administration-web-panel/4816725/5
